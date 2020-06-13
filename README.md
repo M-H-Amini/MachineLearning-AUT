@@ -1,6 +1,6 @@
 # MachineLearning-AUT
 
-One of my best courses. The content provided is the following.
+One of my best courses. The content provided is the following. In each lecture, after the theoretical stuff, a project using real-world datasets was done with the topic of that lecture.
 
 - [x] Lecture 0 : Intro - An introduction to python and what we need from python in this course was presented.
 - [x] Lecture 1 : Linear Regression - Project: California Housing prediction was done using tensorflow 2.
