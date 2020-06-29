@@ -9,6 +9,6 @@ One of my best courses. The content provided is the following. In each lecture, 
 - [x] Lecture 4 - SVM - Project: Heart Disease prediction and MNIST Handwritten Digits classification was done.
 - [x] Lecture 5 - Bayesian Classification - Project: A spam classifier was implemented.
 - [x] Lecture 6 - PCA + K-Means Clustering - Project: Image compression using both PCA and K-Means Clustering was done.
-- [ ] Lecture 7 - Single-Layer Neural Networks
-- [ ] Lecture 8 - Multi-Layer Neural Networks
+- [x] Lecture 7 - Single-Layer Neural Networks - Single-Layer Perceptrons with an example of logical gates was implemented.
+- [x] Lecture 8 - Multi-Layer Neural Networks - Fully-Connected Multi-Layer Neural Networks and backpropagation was explained.
 - [ ] Lecture 9 - An introduction to statistical learning
